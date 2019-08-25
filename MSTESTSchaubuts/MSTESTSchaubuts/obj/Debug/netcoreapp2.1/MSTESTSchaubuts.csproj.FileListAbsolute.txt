@@ -12,3 +12,17 @@ C:\Users\jons\OneDrive\AutomationTestExamples\schaubuts\MSTESTSchaubuts\MSTESTSc
 C:\Users\jons\OneDrive\AutomationTestExamples\schaubuts\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.dll
 C:\Users\jons\OneDrive\AutomationTestExamples\schaubuts\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.pdb
 C:\Users\jons\OneDrive\AutomationTestExamples\schaubuts\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.csprojAssemblyReference.cache
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\MSTESTSchaubuts.deps.json
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\MSTESTSchaubuts.runtimeconfig.json
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\MSTESTSchaubuts.runtimeconfig.dev.json
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\MSTESTSchaubuts.dll
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\bin\Debug\netcoreapp2.1\MSTESTSchaubuts.pdb
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.csprojAssemblyReference.cache
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.csproj.CoreCompileInputs.cache
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.AssemblyInfoInputs.cache
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.AssemblyInfo.cs
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.dll
+C:\Users\jons\reposistories\schaubhuts.com\MSTESTSchaubuts\MSTESTSchaubuts\obj\Debug\netcoreapp2.1\MSTESTSchaubuts.pdb

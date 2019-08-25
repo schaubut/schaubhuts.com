@@ -21,53 +21,48 @@ namespace MSTESTSchaubuts
 
         public static IWebDriver driver;
         public static IWebElement item;
-        //   private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-
-        
 
         [TestMethod]
+
         public void TestMethod1()
         {
 
 
            driver = authenticate.initialise(driver, "Chrome");
 
-            //            driver = new ChromeDriver(@"C:\drivers\");
-
             driver.Navigate().GoToUrl("https://schaubhuts.com");
 
-            DateTime t1 = DateTime.Now;
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
-
 
             Thread.Sleep(5000);
 
             IWebElement myDynamicElement = wait.Until<IWebElement>((d) =>
             {
+
                 return item = driver.FindElement(By.LinkText("ACCEPT & CLOSE"));
+
             });
-            
-            DateTime t2 =DateTime.Now;
 
             item.Click();
 
+        }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+
             Products.ShopHereNow(driver);
 
+        }
 
+        [TestMethod]
+        [TearDown]
+        public void TestMethod3()
+        {
 
-
-
-
-
-
-
-
-
-
-
-
-
+            driver.Close();
 
         }
+
     }
 }

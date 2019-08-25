@@ -5856,11 +5856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jons\\OneDrive\\AutomationTestExamples\\schaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts.csproj",
+      "projectUniqueName": "C:\\Users\\jons\\reposistories\\schaubhuts.com\\MSTESTSchaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts.csproj",
       "projectName": "MSTESTSchaubuts",
-      "projectPath": "C:\\Users\\jons\\OneDrive\\AutomationTestExamples\\schaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts.csproj",
+      "projectPath": "C:\\Users\\jons\\reposistories\\schaubhuts.com\\MSTESTSchaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts.csproj",
       "packagesPath": "C:\\Users\\jons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jons\\OneDrive\\AutomationTestExamples\\schaubuts\\MSTESTSchaubuts\\MSTESTSchaubuts\\obj\\",
+      "outputPath": "C:\\Users\\jons\\reposistories\\schaubhuts.com\\MSTESTSchaubuts\\MSTESTSchaubuts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
